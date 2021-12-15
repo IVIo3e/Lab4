@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_Graphics", "2_Graphics", "{0CDB1E7B-7D6F-43F2-856D-84519696FD65}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simpleGL", "2_Graphics\simpleGL\simpleGL_vs2019.vcxproj", "{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66}.Debug|x64.ActiveCfg = Debug|x64
+		{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66}.Debug|x64.Build.0 = Debug|x64
+		{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66}.Release|x64.ActiveCfg = Release|x64
+		{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66} = {0CDB1E7B-7D6F-43F2-856D-84519696FD65}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A90096-8947-4431-886E-E14AD44D47F1}
+	EndGlobalSection
+EndGlobal
